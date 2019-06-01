@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "University of Bristol"
+  organization_url = ""
+  title = "Artificial Intelligence for Board games"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2019-05"
+  date_end = ""
+  description = "An AI was written to interact with a board game. A number of object oriented programming concepts have been applied. Our AI comes out very effective when being competed with other AIs and came 3rd."
+
+[[item]]
+  organization = "UK Senior Mathematical Challenge"
+  organization_url = ""
+  title = "Gold Certificate"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-11-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Hong Kong Olympiad in Informatics 2014"
+  organization_url = "https://hkoi.org/en/"
+  title = "Bronze award"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2014"
+  date_end = ""
   description = ""
 
 +++
