@@ -15,10 +15,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "java"
   icon_pack = "fab"
-  name = "R"
-  description = """**Programming**
+  name = "Programming"
+  description = """
   * Database design and management, MySQL;
   * Python, Java, Django;
   * C, C++"""
@@ -26,17 +26,23 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Modules"
+  name = "Unit Modules"
   description = """
-  * Probability and Statistics, Mathematical Methods;
-  * Algorithms;
-  * Security;"""
+  * Introduction to Computer Architecture
+  * Mathematical Methods, Statistics and Probability
+  * Theory of Computation
+  * Algorithms
+  * Imperative, Functional, Object-Oriented Programming
+  * Security 101
+  * Databases and Cloud Concepts
+"""
 
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Technical"
-  description = """Office 365,
+  description = """
+  * Office 365,
   * Excel for documents and data analysis,
   * Word and PowerPoint with rich experience."""
 
