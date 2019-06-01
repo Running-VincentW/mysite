@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Web developer"
   company = "mixandmatchstyle.com"
-  company_url = "mixandmatchstyle.com"
+  company_url = "http://mixandmatchstyle.com"
   location = "California"
   date_start = "2018-08-01"
   date_end = "2018-09-30"

@@ -19,9 +19,11 @@ subtitle = ""
   icon_pack = "fab"
   name = "Programming"
   description = """
+  * Fluid understanding in different programming paradigms
   * Database design and management, MySQL;
-  * Python, Java, Django;
-  * C, C++"""
+  * Object-oriented programming: _Python, Java, Django_;
+  * Imperative programming: _C, C++_"""
+  * and Functional programming using _Haskell_.
 
 [[feature]]
   icon = "chart-line"
@@ -38,7 +40,7 @@ subtitle = ""
 """
 
 [[feature]]
-  icon = "camera-retro"
+  icon = "terminal"
   icon_pack = "fas"
   name = "Technical"
   description = """
