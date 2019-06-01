@@ -18,7 +18,7 @@ organizations:
   url: https://www.bristol.ac.uk/study/undergraduate/2019/computer-science/bsc-comp-sci/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: """I am a Computer Science student studying at the University of Bristol. I am an active member of the Computer Science Society and the Publications Director of the Hong Kong Public Affairs and Social Service (Bristol HKPASS) Society. I am currently pursuing a career path towards Machine Learning and Cybersecurity."""
 
 interests:
 - Artificial Intelligence
