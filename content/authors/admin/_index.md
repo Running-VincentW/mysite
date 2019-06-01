@@ -18,24 +18,24 @@ organizations:
   url: https://www.bristol.ac.uk/study/undergraduate/2019/computer-science/bsc-comp-sci/
 
 # Short bio (displayed in user profile at end of posts)
-bio: """I am a Computer Science student studying at the University of Bristol. I am an active member of the Computer Science Society and the Publications Director of the Hong Kong Public Affairs and Social Service (Bristol HKPASS) Society. I am currently pursuing a career path towards Machine Learning and Cybersecurity."""
+bio: I am a Computer Science student studying at the University of Bristol. I am an active member of the Computer Science Society and the Publications Director of the Hong Kong Public Affairs and Social Service (Bristol HKPASS) Society. I am currently pursuing a career path towards Machine Learning and Cybersecurity.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cybersecurity
+- Machine Learning
+- Cloud Computing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc Computer Science (2:1)
+    institution: University of Bristol
+    year: 2018 - 2021
+  - course: A-Level Maths, Computer Science, Economics, Further Maths(A*AAA)
+    institution: King Edward VI, Stourbridge, UK
+    year: 2016 - 2018
+  - course: HKDSE
+    institution: La Salle College, Hong Kong
+    year: 2011 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
