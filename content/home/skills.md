@@ -18,26 +18,26 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "**Programming**
+  description = """**Programming**
   * Database design and management, MySQL;
   * Python, Java, Django;
-  * C, C++"
+  * C, C++"""
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Modules"
-  description = "
+  description = """
   * Probability and Statistics, Mathematical Methods;
   * Algorithms;
-  * Security;"  
+  * Security;"""
 
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Technical"
-  description = "Office 365,
+  description = """Office 365,
   * Excel for documents and data analysis,
-  * Word and PowerPoint with rich experience."
+  * Word and PowerPoint with rich experience."""
 
 +++
