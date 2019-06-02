@@ -24,6 +24,7 @@ subtitle = ""
   * Object-oriented programming: _Python, Java, Django_;
   * Imperative programming: _C, C++_"""
   * and Functional programming using _Haskell_.
+  """
 
 [[feature]]
   icon = "chart-line"
