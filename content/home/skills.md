@@ -22,7 +22,7 @@ subtitle = ""
   * Fluid understanding in different programming paradigms
   * Database design and management, MySQL;
   * Object-oriented programming: _Python, Java, Django_;
-  * Imperative programming: _C, C++_"""
+  * Imperative programming: _C, C++_;
   * and Functional programming using _Haskell_.
   """
 
