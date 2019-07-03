@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BSc Computer Science (2:1)
+  - course: BSc Computer Science (First Class Honours)
     institution: University of Bristol
     year: 2018 - 2021
   - course: A-Level Maths, Computer Science, Economics, Further Maths(A*AAA)
