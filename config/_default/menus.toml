@@ -13,20 +13,25 @@
   url = "#experience"
   weight = 20
 
-[[main]]
-  name = "Accomplishments"
-  url = "#accomplishments"
+  [[main]]
+  name = "Projects"
+  url = "#portfolio"
   weight = 30
 
 [[main]]
-  name = "CV"
-  url = "files/vincentwong_CV.pdf"
-  weight = 70
+  name = "Accomplishments"
+  url = "#accomplishments"
+  weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 50
+  
+[[main]]
+  name = "CV"
+  url = "files/wong_yik_ming_vincent_CV.pdf"
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
