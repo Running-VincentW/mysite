@@ -18,12 +18,12 @@ organizations:
   url: https://www.bristol.ac.uk/study/undergraduate/2019/computer-science/bsc-comp-sci/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Vincent is a Computer Science student studying at the University of Bristol.
+bio: Computer Science student at University of Bristol
 
 interests:
 - Cybersecurity
 - Machine Learning
-- Cloud Computing
+- Software Engineering
 
 education:
   courses:
@@ -55,7 +55,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/vincentwong_CV.pdf
+  link: files/wong_yik_ming_vincent_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,6 +65,4 @@ email: ""
 user_groups: []
 ---
 
-I am a Computer Science student studying at the University of Bristol, currently an active member of the Computer Science Society and participated in a series of group programming challenges, including _Google Hash Code_ and _BAE Capture the Flag_.
-Elective modules includes Communication, complexity and number theory, aiming to pursue the field of _Machine Learning_ and _Cybersecurity_.
-I am also the Publications Director of the [Hong Kong Public Affairs and Social Service (Bristol HKPASS) Society](https://www.bristolhkpass.org/).
+Due to graduate in 2021. Competent in multiple programming languages, algorithms, as well as teamwork and business skills gained from experiences such as internship and team programming challenges. Specialized in software engineering and pursuing further studies into cybersecurity and artificial intelligence.

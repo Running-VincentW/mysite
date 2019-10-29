@@ -19,16 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "University of Bristol"
-  organization_url = ""
-  title = "Artificial Intelligence for Board games"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-05-01"
-  date_end = ""
-  description = "An AI was written to interact with a board game. A number of object oriented programming concepts have been applied. Our AI comes out very effective when being competed with other AIs and came 3rd."
-
-[[item]]
   organization = "UK Senior Mathematical Challenge"
   organization_url = ""
   title = "Gold Certificate"
