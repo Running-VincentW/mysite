@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
 subtitle = ""
@@ -29,8 +29,8 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Hong Kong Olympiad in Informatics 2014"
-  organization_url = "https://hkoi.org/en/"
+  organization = "Hong Kong Olympiad in Informatics 2014-15"
+  organization_url = "https://hkoi.org/en/results/2014-15/"
   title = "Bronze award"
   url = ""
   certificate_url = ""
@@ -38,4 +38,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Mobile App Design Competition"
+  organization_url = "http://archive.am730.com.hk/article-215220"
+  title = "Champion"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-07-07"
+  date_end = ""
+  description = ""
 +++
