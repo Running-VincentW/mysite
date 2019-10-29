@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Scotland Yard Ai"
-summary: ""
+summary: "Implemented Dijkstra’s shortest path finding algorithm and Design patterns for AI playing board game Scotland Yard"
 authors: []
 tags: []
 categories: []

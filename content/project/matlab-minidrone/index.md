@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Matlab Minidrone"
-summary: ""
+summary: "Designed a line follower algorithm using model-based design within Simulink, and achieved **3rd runner up**"
 authors: []
 tags: []
 categories: []
