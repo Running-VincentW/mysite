@@ -65,4 +65,4 @@ email: ""
 user_groups: []
 ---
 
-Due to graduate in 2021. Competent in multiple programming languages, algorithms, as well as teamwork and business skills gained from experiences such as internship and team programming challenges. Specialized in software engineering and pursuing further studies into cybersecurity and artificial intelligence.
+I am a second-year Computer Science student with experiences in team programming challenges and a previous internship. I am a resilient learner and a good team player who is willing to take on challenges that require critical thinking and problem-solving. I am looking for a summer internship or placement opportunity in software product engineering, or related disciplines.

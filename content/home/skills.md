@@ -15,38 +15,36 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "java"
+  icon = "code"
   icon_pack = "fab"
   name = "Programming"
   description = """
-  * Fluid understanding in different programming paradigms
-  * Database design and management, MySQL;
-  * Object-oriented programming: _Python, Java, Django_;
-  * Imperative programming: _C, C++_;
-  * and Functional programming using _Haskell_.
+  - Competent in data structures and algorithms
+  - Knowledge and experience in multiple programming paradigms
+    - Object-oriented programming
+      _Python, Java, C++_
+    - Imperative programming
+      _C_
+    - Functional programming
+      _Haskell_
+  - Web development stack
+    - Backend knowledge
+      _microservices, database, SQL, GraphQL_
+    - Frontend knowledge
+      _JavaScript MVC, Vue.js_
   """
 
 [[feature]]
-  icon = "chart-line"
+  icon = "chart-bar"
   icon_pack = "fas"
-  name = "Unit Modules"
+  name = "Data Science"
   description = """
-  * Introduction to Computer Architecture
-  * Mathematical Methods, Statistics and Probability
-  * Theory of Computation
-  * Algorithms
-  * Imperative, Functional, Object-Oriented Programming
-  * Security 101
-  * Databases and Cloud Concepts
+  - Hands on experience with data science tools
+    _Pytorch, Numpy_
+  - Developing knowledge in machine learning
+    - implemented _Tensorflow_ during a hackathon
+    - as well as taking future units in machine learning
+  - Knowledge on statistics and number-crunching
 """
-
-[[feature]]
-  icon = "terminal"
-  icon_pack = "fas"
-  name = "Technical"
-  description = """
-  * Office 365,
-  * Excel for documents and data analysis,
-  * Word and PowerPoint with rich experience."""
 
 +++

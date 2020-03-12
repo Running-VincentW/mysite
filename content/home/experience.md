@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   * Provide technical support to students, meanwhile developing my interpersonal and technical skills
   * Demonstrated my ability to deliver customer services
   """
-[[experience]]
+<!-- [[experience]]
   title = "Web developer"
   company = "Local jewelry shop"
   location = "Hong Kong"
@@ -50,5 +50,5 @@ date_format = "Jan 2006"
   date_end = "2018-09-01"
   description = """
   * Successfully promoted online appearance through optimizing SEO and targeted audience with analytical tools
-  """
+  """ -->
 +++
