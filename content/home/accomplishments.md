@@ -19,9 +19,29 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "UK Senior Mathematical Challenge"
+  organization = "Bristol CSS"
   organization_url = ""
-  title = "Gold Certificate"
+  title = "First - BAE Systems cybersecurity Capture the Flag"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-11-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Mathworks"
+  organization_url = ""
+  title = "3rd runner up - MATLAB minidrone competition"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-10-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "UK Mathematical Trust"
+  organization_url = ""
+  title = "Gold Certificate - UK Senior Mathematical Challenge"
   url = ""
   certificate_url = ""
   date_start = "2016-11-01"
@@ -35,16 +55,6 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2014-01-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Mobile App Design Competition"
-  organization_url = "http://archive.am730.com.hk/article-215220"
-  title = "Champion"
-  url = ""
-  certificate_url = ""
-  date_start = "2014-07-07"
   date_end = ""
   description = ""
 +++

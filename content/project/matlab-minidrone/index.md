@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-I have designed a line follower algorithm for a drone using model-based design within Simulink. Our model works ideally in simulation and has been shortlisted for the final round. 
+I have designed a line follower algorithm for a drone using model-based design within Simulink. Our model works ideally in simulation and has been shortlisted for the final round.
 
 For the project, I have designed an image processing system, which converts the video feed from the drone’s camera into flight instructions for the flight controller.
 Moreover, we can work under pressure within limited time constraints and has eliminated errors and noises from the image processing system during the deployment round of the competition.
